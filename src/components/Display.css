@@ -1,0 +1,15 @@
+.container {
+  margin: 15% 0 0 40%;
+  height: 300px;
+  width: 300px;
+  text-align: center;
+  align-items: center;
+  justify-content: end;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: blanchedalmond;
+}
+
+h2 {
+  margin: 60px 0;
+}
